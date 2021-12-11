@@ -1,0 +1,12 @@
+dist
+coverage
+private.key
+private.key.pub
+HttpRequest
+mongodb_data
+node_modules
+.env
+.idea
+.eslintcache
+.husky
+.vscode
